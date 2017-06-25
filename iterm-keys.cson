@@ -1,0 +1,7 @@
+
+# command > :: send hex code 0x05
+# command < :: send hex code 0x01
+# option > :: send escape sequence [f
+# option < :: send escape sequence [b
+# delete option < :: send hex code 0x1B 0x08
+# delete command < :: send hex code 0x15
