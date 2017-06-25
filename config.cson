@@ -1,0 +1,33 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+    audioBeep: false
+    closeDeletedFileTabs: true
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "limited"
+    titleBar: "custom-inset"
+  editor:
+    fontFamily: "operator mono ssm"
+    fontSize: 18
+    tabLength: 4
+  "exception-reporting":
+    userId: "df81e0b7-6e9e-23dc-67c2-c50b5486b47b"
+  linter:
+    errorPanelHeight: 170
+    showErrorPanel: false
+  "linter-eslint":
+    lintHtmlFiles: true
+  "terminal-panel": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
+".erb.text":
+  editor:
+    tabLength: 2
+".haml.text":
+  editor:
+    tabLength: 2
+".ruby.source":
+  editor:
+    tabLength: 2
